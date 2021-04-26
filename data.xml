@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <bookstore>
+  <book>
+   <title lang="en">Belive in Yourself</title>
+    <author>J. Murphy</author>
+    <year>2005</year>
+     <price>90</price>
+   </book>
+   <book>
+    <title lang="en">My Journey</title>
+     <author>APJ Abdul Kalam</author>
+      <year>2007</year>
+       <price>100</price>
+     </book>
+     <book>
+      <title lang="en">Panchtantra</title>
+       <author>Vishnu Sharma</author>
+      <year>2000</year> <price>30</price>
+      </book>
+    <book>
+     <title lang="en">Art of happiness</title>
+      <author>Dalai Lama</author>
+       <year>2005</year>
+        <price>102</price>
+      </book>
+     <book>
+      <title lang="en">Making India Awesome</title>
+       <author>Chetan Bhagat</author>
+        <year>2012</year>
+         <price>80</price>
+      </book>
+ </bookstore>

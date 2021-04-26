@@ -4,20 +4,24 @@
  		<territory>Northeast</territory>
  		<employees>150</employees>
  		<amount>115000</amount>
+		<target>120000</target>
 	 </region>
  	<region>
  		<territory>Southeast</territory>
  		<employees>125</employees>
  		<amount>95000</amount>
+		<target>90000</target>
  	</region>
 	<region>
  		<territory>Esteast</territory>
- 		<employees>150</employees>
- 		<amount>115000</amount>	
+ 		<employees>210</employees>
+ 		<amount>138000</amount>
+		<target>130000</target>	
 	 </region>
  	<region>
  		<territory>esteast</territory>
- 		<employees>125</employees>
- 		<amount>95000</amount>
+ 		<employees>175</employees>
+ 		<amount>8000</amount>
+		<target>10000</target>
  	</region>
  </sales>

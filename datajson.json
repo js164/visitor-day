@@ -1,0 +1,35 @@
+{
+    "company": {
+        "employees": [{
+                "empID": "01",
+                "empName": "Jay",
+                "empAge": 23,
+		"empIncome": 50000
+            },
+            {
+                "empID": "02",
+                "empName": "Rohan",
+                "empAge": 22,
+		"empIncome": 68000
+            },
+            {
+                "empID": "03",
+                "empName": "Vinit",
+                "empAge": 25,
+		"empIncome": 39000
+            },
+            {
+                "empID": "04",
+                "empName": "Vasu",
+                "empAge": 30,
+		"empIncome": 75000
+            },
+            {
+                "empID": "05",
+                "empName": "Heet",
+                "empAge": 23,
+		"empIncome": 55000
+            }
+        ]
+    }
+}
